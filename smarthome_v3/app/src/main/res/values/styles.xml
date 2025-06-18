@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!-- 커스텀 다이얼로그 테마 정의 -->
+    <style name="EmergencyTheme" parent="Theme.AppCompat.Dialog">
+        <item name="android:background">#FFFFFF</item> <!-- 다이얼로그 배경색 -->
+        <item name="android:textColorPrimary">#000000</item> <!-- 텍스트 색상 -->
+        <item name="android:windowMinWidthMajor">75%</item> <!-- 다이얼로그 너비 -->
+        <item name="android:windowMinWidthMinor">75%</item>
+    </style></resources>

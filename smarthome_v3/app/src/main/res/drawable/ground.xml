@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- 흰색 배경 -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF"/> <!-- 흰색 테두리 -->
+
+    <corners android:radius="20dp"/> <!-- 모서리를 20dp 만큼 둥글게 설정 -->
+
+    <size
+        android:width="350dp"
+        android:height="600dp"/> <!-- 크기 설정 -->
+</shape>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartHome_v3</string>
+    <string name="StringValue">Hello, World!</string>
+    <string name="description_of_image">Description of Image</string>
+    <string name="loading">loading</string>
+    <string name="weather_image_description">Weather image</string>
+</resources>
